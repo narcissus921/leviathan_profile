@@ -33,8 +33,9 @@ dependencies[] = token
 
 ;dependencies[] = admin_menu
 dependencies[] = ctools
-dependencies[] = module_filter
 dependencies[] = captcha
+dependencies[] = logintoboggan
+
 
 ; Views
 
@@ -42,7 +43,15 @@ dependencies[] = views
 
 ; Forms and Fields
 
-dependencies[] = webform
+dependencies[] = addressfield
 dependencies[] = email
 dependencies[] = entity
-dependencies[] = addressfield
+dependencies[] = webform
+
+; Misc
+
+dependencies[] = colorbox
+dependencies[] = date
+dependencies[] = libraries
+dependencies[] = rules
+dependencies[] = wysiwyg
