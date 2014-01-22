@@ -19,3 +19,30 @@ dependencies[] = field_ui
 dependencies[] = rdf
 
 ; Contrib dependencies
+
+; Path Modules
+
+dependencies[] = pathauto
+dependencies[] = pathologic
+dependencies[] = redirect
+dependencies[] = globalredirect
+dependencies[] = extlink
+dependencies[] = token
+
+; User Modules
+
+;dependencies[] = admin_menu
+dependencies[] = ctools
+dependencies[] = module_filter
+dependencies[] = captcha
+
+; Views
+
+dependencies[] = views
+
+; Forms and Fields
+
+dependencies[] = webform
+dependencies[] = email
+dependencies[] = entity
+dependencies[] = addressfield
