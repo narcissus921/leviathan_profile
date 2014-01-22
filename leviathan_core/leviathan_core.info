@@ -1,0 +1,21 @@
+; Leviathan Core profile
+
+name = Leviathan Core
+description = The Leviathan Core config.
+version = 2
+core = 7.x
+
+dependencies[] = block
+dependencies[] = contextual
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = file
+dependencies[] = field_ui
+dependencies[] = rdf
+
+; Contrib dependencies
