@@ -5,6 +5,10 @@ description = The Leviathan Core config.
 version = 2
 core = 7.x
 
+; Required modules indicated as dependencies.
+; Modules listed in the .make file are downloaded.
+; Modules listed in dependencies list are installed when profile installs.
+
 dependencies[] = block
 dependencies[] = contextual
 dependencies[] = help
