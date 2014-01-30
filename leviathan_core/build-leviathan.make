@@ -14,9 +14,10 @@ includes[] = leviathan_themes.make
 ; include install profile now
 ; using branch "master"
 
-;projects[leviathan][type] = "profile"
-;projects[leviathan][download][type] = "git"
+projects[leviathan][type] = "profile"
+projects[leviathan][download][type] = "git"
 ;projects[leviathan][download][url] = "https://leviathanworks@bitbucket.org/leviathanworks/leviathan-profile.git"
-;projects[leviathan][download][branch] = "master"
+projects[leviathan][download][url] = "https://github.com/narcissus921/leviathan_profile.git"
+projects[leviathan][download][branch] = "master"
 
 ;includes[] = "https://leviathanworks@bitbucket.org/leviathanworks/leviathan-profile.git"
